@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Java Programs\\AndroidStudio\\TripTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Christmas\\.android\\build-cache\\98f55cf40927bd32f94ab93e1049efb535729c21\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Java Programs\\AndroidStudio\\TripTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Christmas\\.android\\build-cache\\98f55cf40927bd32f94ab93e1049efb535729c21\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Java Programs\\AndroidStudio\\TripTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Christmas\\.android\\build-cache\\98f55cf40927bd32f94ab93e1049efb535729c21\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Java Programs\\AndroidStudio\\TripTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Christmas\\.android\\build-cache\\98f55cf40927bd32f94ab93e1049efb535729c21\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Java Programs\\AndroidStudio\\TripTracker\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Christmas\\.android\\build-cache\\9670a4247f661510051adf1200006ba0bb1f2421\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

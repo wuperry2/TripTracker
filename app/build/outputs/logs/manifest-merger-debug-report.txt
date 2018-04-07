@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:7:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\4a2187583d3e33f82bf7ba2246ed69b5a5e1f861\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bbf18ef684f14fae19aa0bb0dc75e692439d8a02\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Christmas\.android\build-cache\ee147220193c94b562b43563501ed55dfd284516\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\4a2187583d3e33f82bf7ba2246ed69b5a5e1f861\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Christmas\.android\build-cache\9b3b264403ca7d2855ab87674fe087ae38c0bef0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Christmas\.android\build-cache\ff2c52f5cfefa8e925e0b25ae53fb0267fc216ba\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Christmas\.android\build-cache\6e4edb37b2b14512201500012dc90b924f630e3d\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Christmas\.android\build-cache\98f55cf40927bd32f94ab93e1049efb535729c21\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Christmas\.android\build-cache\097162bdb70c32176cc0ac81828c3cbdf3c1e7b9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Christmas\.android\build-cache\f2cf485fec6ae9b05a44e0362b28c1402bf4e113\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Christmas\.android\build-cache\9f54e88bfae1cc784bd53103a205533f3261156b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Christmas\.android\build-cache\eca0f3cb3d6001b318da54662cfa98361efa222f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Christmas\.android\build-cache\915aeef18a53f5650ed15c252c4b42bbaf0a38ac\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Christmas\.android\build-cache\141c0ebb8b4e58a5bf742aeb5172130db9516e9a\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Christmas\.android\build-cache\a13bcbb991e2bf11b3dfb3c26077c9493faa7c4d\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Christmas\.android\build-cache\755c22e5e28b5e0d6b31e4fa482267039ea8199e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Christmas\.android\build-cache\25f23b1c6e270eacd5b12966b663bfaab65f39f7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Christmas\.android\build-cache\40f2f874413076b2c2fba6ce11b05539becec5db\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Christmas\.android\build-cache\db5757a3da2ed0b17d69edf29d4cebfb7f2487bc\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Christmas\.android\build-cache\a1626640054e7279438f7758e49c1ddd48243156\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Christmas\.android\build-cache\bb4769caf4f1d720a8d7f7158dc1788f8b07bac4\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Christmas\.android\build-cache\2c347c4af01264bd221e613be6676d97d9b25cdd\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Christmas\.android\build-cache\e40f263cd57045208505f6cee6deea7cdf991348\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Christmas\.android\build-cache\0e49dd76f2037532e6163e34393f06f6b5069b8f\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Christmas\.android\build-cache\25e8415ba716ec615fda79bb48f7ab362ee4f30e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Christmas\.android\build-cache\9670a4247f661510051adf1200006ba0bb1f2421\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Christmas\.android\build-cache\4d29da2da2d4293fe05673988caa1180aec5844f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Christmas\.android\build-cache\a6efd8f1a74109fb735a43991021eda0b19636de\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Christmas\.android\build-cache\18eb03726fed05741270bd7f0d221436d8e595f1\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bbf18ef684f14fae19aa0bb0dc75e692439d8a02\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Christmas\.android\build-cache\e3a6324cc87be21baa629293db6b5098fbc7d225\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Christmas\.android\build-cache\1aeb3123e9377dbb81bc3ffb0dafe77302d7b158\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Christmas\.android\build-cache\340cd2f3ff90607c521f0ff4d8281ae0c290c3fe\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Christmas\.android\build-cache\a9dea82dcf0a926c80475b37521eff44ce24ffc8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Christmas\.android\build-cache\1bc87346dfc8907429a6ee3b603debd20014dba0\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Christmas\.android\build-cache\66eada97aa6987b8cbcfc7314da1099df2c8d485\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Christmas\.android\build-cache\5f3e68fbedad142fa77443d40d136dfe2b12fb6e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Christmas\.android\build-cache\4aac553e066ee2354394b6ea79330f1311e2598c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Christmas\.android\build-cache\f878f25728ad14a019238767c1c8f17bccb2922b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Christmas\.android\build-cache\0df5e6160ad14ecdf506f5184791401010519808\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Christmas\.android\build-cache\01aac0f7ddeb85394cec708ed96f6a9891042d3f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.google.android.gms.version
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Christmas\.android\build-cache\1bc87346dfc8907429a6ee3b603debd20014dba0\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:17:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:22:9-24:71
+	android:value
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:24:13-68
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:23:13-58
+activity#com.example.TripTracker.TripMap
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:27:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\Christmas\.android\build-cache\ee147220193c94b562b43563501ed55dfd284516\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\Christmas\.android\build-cache\bb5c4e9ea8985c3fb69ca5de00e4d9350332c1f8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\4a2187583d3e33f82bf7ba2246ed69b5a5e1f861\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\Christmas\.android\build-cache\d6d72836d932b2403e312da75e8b09c2b7288adf\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\Christmas\.android\build-cache\9b3b264403ca7d2855ab87674fe087ae38c0bef0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Christmas\.android\build-cache\ff2c52f5cfefa8e925e0b25ae53fb0267fc216ba\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Christmas\.android\build-cache\6e4edb37b2b14512201500012dc90b924f630e3d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Christmas\.android\build-cache\98f55cf40927bd32f94ab93e1049efb535729c21\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Christmas\.android\build-cache\097162bdb70c32176cc0ac81828c3cbdf3c1e7b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Christmas\.android\build-cache\f2cf485fec6ae9b05a44e0362b28c1402bf4e113\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\Christmas\.android\build-cache\9f54e88bfae1cc784bd53103a205533f3261156b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\Christmas\.android\build-cache\eca0f3cb3d6001b318da54662cfa98361efa222f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\Christmas\.android\build-cache\915aeef18a53f5650ed15c252c4b42bbaf0a38ac\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Christmas\.android\build-cache\141c0ebb8b4e58a5bf742aeb5172130db9516e9a\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\Christmas\.android\build-cache\a13bcbb991e2bf11b3dfb3c26077c9493faa7c4d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\Christmas\.android\build-cache\db85420a15c9968a519de9d73883f21c295a0197\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\Christmas\.android\build-cache\3658435d2b3821b1902de6c2dacd4f07785aee1b\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\Christmas\.android\build-cache\69ad3ac0e873ad1889800303ee5a9ad3aa3cae1a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\Christmas\.android\build-cache\07bfbf5cfa8339f08b14f9bc6de5be8ca1240f45\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\Christmas\.android\build-cache\755c22e5e28b5e0d6b31e4fa482267039ea8199e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\Christmas\.android\build-cache\25f23b1c6e270eacd5b12966b663bfaab65f39f7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\Christmas\.android\build-cache\40f2f874413076b2c2fba6ce11b05539becec5db\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\Christmas\.android\build-cache\db5757a3da2ed0b17d69edf29d4cebfb7f2487bc\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Christmas\.android\build-cache\a1626640054e7279438f7758e49c1ddd48243156\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Christmas\.android\build-cache\bb4769caf4f1d720a8d7f7158dc1788f8b07bac4\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Christmas\.android\build-cache\2c347c4af01264bd221e613be6676d97d9b25cdd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\Christmas\.android\build-cache\96b505a1899c03e1e3ff21f2e93936d6f626fc34\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Christmas\.android\build-cache\e40f263cd57045208505f6cee6deea7cdf991348\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Christmas\.android\build-cache\0e49dd76f2037532e6163e34393f06f6b5069b8f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\Christmas\.android\build-cache\25e8415ba716ec615fda79bb48f7ab362ee4f30e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\Christmas\.android\build-cache\9670a4247f661510051adf1200006ba0bb1f2421\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\Christmas\.android\build-cache\4d29da2da2d4293fe05673988caa1180aec5844f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\Christmas\.android\build-cache\a6efd8f1a74109fb735a43991021eda0b19636de\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\Christmas\.android\build-cache\d1daf3ecbeb5997d53d4aea1301e6f7a0ca35734\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\Christmas\.android\build-cache\18eb03726fed05741270bd7f0d221436d8e595f1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bbf18ef684f14fae19aa0bb0dc75e692439d8a02\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\Christmas\.android\build-cache\e3a6324cc87be21baa629293db6b5098fbc7d225\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\Christmas\.android\build-cache\ffbaf3549bf3b985044ac21912d23139e6ca21d5\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\Christmas\.android\build-cache\1aeb3123e9377dbb81bc3ffb0dafe77302d7b158\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\Christmas\.android\build-cache\340cd2f3ff90607c521f0ff4d8281ae0c290c3fe\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Christmas\.android\build-cache\a9dea82dcf0a926c80475b37521eff44ce24ffc8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Christmas\.android\build-cache\1bc87346dfc8907429a6ee3b603debd20014dba0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Christmas\.android\build-cache\66eada97aa6987b8cbcfc7314da1099df2c8d485\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Christmas\.android\build-cache\5f3e68fbedad142fa77443d40d136dfe2b12fb6e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Christmas\.android\build-cache\4aac553e066ee2354394b6ea79330f1311e2598c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Christmas\.android\build-cache\f878f25728ad14a019238767c1c8f17bccb2922b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Christmas\.android\build-cache\0df5e6160ad14ecdf506f5184791401010519808\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Christmas\.android\build-cache\01aac0f7ddeb85394cec708ed96f6a9891042d3f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Christmas\.android\build-cache\98f55cf40927bd32f94ab93e1049efb535729c21\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Java Programs\AndroidStudio\TripTracker\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\4a2187583d3e33f82bf7ba2246ed69b5a5e1f861\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Christmas\.android\build-cache\141c0ebb8b4e58a5bf742aeb5172130db9516e9a\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Christmas\.android\build-cache\a1626640054e7279438f7758e49c1ddd48243156\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Christmas\.android\build-cache\2c347c4af01264bd221e613be6676d97d9b25cdd\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bbf18ef684f14fae19aa0bb0dc75e692439d8a02\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\4a2187583d3e33f82bf7ba2246ed69b5a5e1f861\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\Christmas\.android\build-cache\0e49dd76f2037532e6163e34393f06f6b5069b8f\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bbf18ef684f14fae19aa0bb0dc75e692439d8a02\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\Christmas\.android\build-cache\75ecaca0111835e5dd268d509c869693e295b20c\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Christmas\.android\build-cache\db19a53449bb50f684438c9da8914063bc0d09ee\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\Christmas\.android\build-cache\70b87ec9a380e77c49c1cb35995a1f95edd710b4\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\Christmas\.android\build-cache\e359c33d22a6b92e317eb688672068c186819069\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Christmas\.android\build-cache\90c9c3942420aa43b6a98a425bd0104b479b2936\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Christmas\.android\build-cache\a1626640054e7279438f7758e49c1ddd48243156\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\Christmas\.android\build-cache\2c347c4af01264bd221e613be6676d97d9b25cdd\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\Christmas\.android\build-cache\a1626640054e7279438f7758e49c1ddd48243156\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\Christmas\.android\build-cache\643f41b8b84204a40afdfd9de6266f3dd1d5ff3e\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Christmas\.android\build-cache\bf7b06924f61f7841023fc7ac400402613838963\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Christmas\.android\build-cache\b19d6a0d421c98bda4ebd056c3d4718106f96a57\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Christmas\.android\build-cache\bb6b99cef19199b00b0f50ea63df91ccfbcebb6a\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Christmas\.android\build-cache\814127395e847a8407cdb7b35fbe4c5f6bc04cbd\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Christmas\.android\build-cache\de09d952affb8310a43c686976b95d4f91326169\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Christmas\.android\build-cache\db062e791b104996e3064342a09a8d2248636a18\output\AndroidManifest.xml:19:19-85
